@@ -9,7 +9,7 @@
 In order to achieve the maximum integration with the Mautic platform Magento 2 Mautic Integration extension uses Mautic API to synchronize customers, reviews, orders, subscribers data between Magento and Mautic.
 
 <p align="center">
-  <img width="1000" height="600" src="https://cm.magefan.com/mf_webp/png/media/mautic/magento-2-mautic-api-configuration.webp">
+  <img width="900" height="500" src="https://cm.magefan.com/mf_webp/png/media/mautic/magento-2-mautic-api-configuration.webp">
 </p>
 
 ### Asynchronous Data Export
@@ -21,7 +21,7 @@ Magento 2 cron runs the requests to Mautic asynchronously so that there is no de
 Field Mapping used by Magento 2 Mautic Integration extension allows you to correlate Magento customers attributes with the Mautic contact fields
 
 <p align="center">
-  <img width="1000" height="830" src="https://cm.magefan.com/mf_webp/png/media/mautic/magento-2-mautic-fields-mapping.webp">
+  <img width="1000" height="630" src="https://cm.magefan.com/mf_webp/png/media/mautic/magento-2-mautic-fields-mapping.webp">
 </p>
 
 ### Website Monitoring / Javascript (JS) tracking
