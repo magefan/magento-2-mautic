@@ -3,6 +3,9 @@
 
 [Mautic Integration](https://magefan.com/magento-2-mautic-extension) is the Magento 2 extension that will help you to synchronize customers, reviews and other data between Magento and Mautic to make your email marketing campaigns even more effective.
 
+
+<a href="https://magefan.com/magento-2-mautic-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+
 ## Features
 ### Mautic API
 
