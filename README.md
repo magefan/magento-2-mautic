@@ -46,7 +46,7 @@ Magento 2 Mautic Integration extension allows you to enable the traffic monitori
 * [How to Configure Mautic Integration in Magento 2?](https://magefan.com/magento-2-mautic-extension/configuration)
 * [How to Enable Mautic API?](https://magefan.com/blog/how-to-enable-mautic-api)
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
