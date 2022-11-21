@@ -115,3 +115,6 @@ Magento 2 Mautic Integration extension allows you to enable the traffic monitori
 
   ### Magento 2 Point of Sale
   * [Magento 2 POS System](https://magefan.com/magento-pos-system)
+  
+  ### Shopware Extensions
+  * [Shopware WebP Extension](https://magefan.com/shopware/extensions/webp)
