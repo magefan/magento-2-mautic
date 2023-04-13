@@ -124,3 +124,6 @@ Magento 2 Mautic Integration extension allows you to enable the traffic monitori
   ### Shopify Apps
   * [Shopify Login As Customer](https://apps.shopify.com/login-as-customer)
   * [Shopify Blog](https://apps.shopify.com/magefan-blog)
+  
+  ### Magento 2 Theme
+  * [Optimized Magento 2 Theme](https://magefan.com/optimized-magento-2-theme)
