@@ -1,4 +1,4 @@
-# Magento 2 Mautic Integration Extension
+# [Magento 2 Mautic Integration Extension](https://magefan.com/magento-2-mautic-extension) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,30 +6,33 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-mautic.webp">
 
-[Mautic Integration](https://magefan.com/magento-2-mautic-extension) is the Magento 2 extension that will help you to synchronize customers, reviews and other data between Magento and Mautic to make your email marketing campaigns even more effective.
-
+[Magento 2 Mautic Integration](https://magefan.com/magento-2-mautic-extension) is the Magento 2 extension that will help you to synchronize customers, reviews and other data between Magento and Mautic to make your email marketing campaigns even more effective.
 
 <a href="https://magefan.com/magento-2-mautic-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-mautic-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+
 ## Features
+
 ### Mautic API
 
 In order to achieve the maximum integration with the Mautic platform Magento 2 Mautic Integration extension uses Mautic API to synchronize customers, reviews, orders, subscribers data between Magento and Mautic.
 
-<p align="center">
-  <img width="900" height="500" src="https://cm.magefan.com/mf_webp/png/media/mautic/magento-2-mautic-api-configuration.webp">
-</p>
-
 ### Asynchronous Data Export
 
 Magento 2 cron runs the requests to Mautic asynchronously so that there is no delay in returning the request from Mautic. The module knows when new data is added or changed and exports it by schedule.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/mautic-api-magento.webp">
+</p>
 
 ### Fields Mapping
 
 Field Mapping used by Magento 2 Mautic Integration extension allows you to correlate Magento customers attributes with the Mautic contact fields
 
 <p align="center">
-  <img width="1000" height="630" src="https://cm.magefan.com/mf_webp/png/media/mautic/magento-2-mautic-fields-mapping.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/mautic-field-mapping-magento.webp">
 </p>
 
 ### Website Monitoring / Javascript (JS) tracking
@@ -37,7 +40,7 @@ Field Mapping used by Magento 2 Mautic Integration extension allows you to corre
 Magento 2 Mautic Integration extension allows you to enable the traffic monitoring which adds the JavaScript tracking code to your store automatically.
 
 <p align="center">
-  <img width="1000" height="160" src="https://cm.magefan.com/mf_webp/png/media/mautic/magento-2-mautic-contact-monitoring.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/mautic-contact-monitoring-magento.webp">
 </p>
 
 ## Documentation
@@ -50,6 +53,66 @@ Magento 2 Mautic Integration extension allows you to enable the traffic monitori
 **Configuration**
 * [How to Configure Mautic Integration in Magento 2?](https://magefan.com/magento-2-mautic-extension/configuration)
 * [How to Enable Mautic API?](https://magefan.com/blog/how-to-enable-mautic-api)
+
+## Demo
+
+Try out our open demo and if you like our extension **please give us some star on Github ★**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        Storefront Demo
+      </td>
+      <td align="center" valign="middle">
+        Admin Panel Demo
+      </td align="center" valign="middle">
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://mautic.demo.magefan.top/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
+            alt="Magento 2 Mautic Extension Storefront Demo"
+            height="220"
+          >
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://mautic.demo.magefan.top/admin/admin/system_config/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            alt="Magento 2 Mautic Extension Admin Panel Demo"
+            height="220"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://mautic.demo.magefan.top/">
+          view
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://mautic.demo.magefan.top/admin/admin/system_config/">
+          view
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-mautic/issues).
+
+## Need More Features?
+Please contact us to get a quote
+https://magefan.com/contact
+
+## License
+The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
