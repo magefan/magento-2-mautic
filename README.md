@@ -6,7 +6,7 @@
 
 Take a few simple steps to map Magento and Mautic fields and run the synchronization seamlessly. Boost your customer segmentation and overall marketing efforts in no time!
 
-Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
